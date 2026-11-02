@@ -25,5 +25,5 @@ The page will be available at `https://hayeon-kimm.github.io/AVENUE-project-page
 
 ## TODO
 - Fill in the Results section.
-- Replace the `#` placeholder links (Paper, arXiv, Code) once they exist.
+- Replace the `#` placeholder links (
 - Update the BibTeX entry after the camera-ready version.
